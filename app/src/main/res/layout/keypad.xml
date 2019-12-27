@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keypad"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TableRow>
+
+        <Button
+            style="@style/button_main"
+            android:id="@+id/keypad_1"
+            android:text="@string/_1" />
+
+        <Button
+            style="@style/button_main"
+            android:id="@+id/keypad_2"
+            android:text="@string/_2" />
+
+        <Button
+            style="@style/button_main"
+            android:id="@+id/keypad_3"
+            android:text="@string/_3" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            style="@style/button_main"
+            android:id="@+id/keypad_4"
+            android:text="@string/_4" />
+
+        <Button
+            android:id="@+id/keypad_5"
+            style="@style/button_main"
+            android:text="@string/_5" />
+
+        <Button
+            android:id="@+id/keypad_6"
+            style="@style/button_main"
+            android:text="@string/_6" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/keypad_7"
+            style="@style/button_main"
+            android:text="@string/_7" />
+
+        <Button
+            android:id="@+id/keypad_8"
+            style="@style/button_main"
+            android:text="@string/_8" />
+
+        <Button
+            android:id="@+id/keypad_9"
+            style="@style/button_main"
+            android:text="@string/_9" />
+    </TableRow>
+</TableLayout>

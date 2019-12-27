@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="background">#3500ffff</color>
+   <color name="colorPrimary">#008577</color>
+   <color name="colorPrimaryDark">#00574B</color>
+   <color name="colorAccent">#D81B60</color>
+   <color name="puzzle_background">#ffe6f0ff</color>
+   <color name="puzzle_dark">#353C5A</color>
+   <color name="background_main">#FFFFFF</color>
+   <color name="background_main_button">#00BCD4</color>
+</resources>

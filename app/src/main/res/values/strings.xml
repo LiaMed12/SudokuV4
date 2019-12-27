@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   <string name="app_name">Sudoku</string>
+   <string name="main_title">Sudoku</string>
+   <string name="continue_label">Continue</string>
+   <string name="back_label">Back</string>
+   <string name="new_game_label">New Game</string>
+   <string name="about_button">About the Game</string>
+   <string name="exit_label">Exit</string>
+   <string name="new_game_title">Choose a card number</string>
+   <string name="one_label">One</string>
+   <string name="two_label">Two</string>
+   <string name="three_label">Three</string>
+   <string name="game_title">Game</string>
+   <string name="no_action_label">No action possible, error</string>
+   <string name="keypad_title">Keypad</string>
+   <string name="_9">9</string>
+   <string name="_8">8</string>
+   <string name="_7">7</string>
+   <string name="_6">6</string>
+   <string name="_5">5</string>
+   <string name="_4">4</string>
+   <string name="_3">3</string>
+   <string name="_2">2</string>
+   <string name="_1">1</string>
+   <string name="game_about_title"> About the game</string>
+   <string name="game_about">Sudoku is a logical game, so no need to guess.
+      If you do not know what number to put in a certain cell, continue to scan other areas of the playing field until you see the ability to insert the desired number.
+      Sudoku is played on the playing field, consisting of 9 by 9 cells, a total of 81 cells.
+      Inside the playing field there are 9 "squares" (consisting of 3 x 3 cells).
+      Each horizontal row, vertical column, and square (9 cells each) must be filled with the numbers 1-9, without repeating any numbers in the row, column, or square.
+      The more cells initially filled, the easier the game.
+      The fewer cells initially filled, the harder the game.</string>
+</resources>

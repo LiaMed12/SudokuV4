@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/game_about_title"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/puzzle_dark"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="40sp" />
+
+    <TextView
+        android:text="@string/game_about"
+        android:textColor="@color/puzzle_dark"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+    <Button
+        android:background="@color/background_main_button"
+        android:id="@+id/back_button"
+        style="@style/button_main"
+        android:onClick="onClickBack"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back_label" />
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="key">
+      <item>@string/one_label</item>
+      <item>@string/two_label</item>
+      <item>@string/three_label</item>
+   </array>
+</resources>
